@@ -6,4 +6,4 @@ Key points:
 
 * Exploratiry analysis
 * Preprocessin/data cleaning
-* Find good model/model fitting (to be done)
+* Find good model/model fitting (to be done) 
